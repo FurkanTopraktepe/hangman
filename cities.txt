@@ -1,0 +1,10 @@
+paris;Capital of France, famous for the Eiffel Tower
+london;Capital of England, home to Big Ben
+tokyo;Capital of Japan, known for technology
+newyork;The city that never sleeps, USA
+istanbul;A city connecting two continents
+berlin;Capital of Germany, known for its wall history
+rome;Capital of Italy, home to the Colosseum
+sydney;Famous Australian city with an Opera House
+dubai;City known for luxury and the Burj Khalifa
+moscow;Capital of Russia, home to the Kremlin
