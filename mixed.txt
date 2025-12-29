@@ -1,0 +1,10 @@
+computer;Electronic device for processing data
+guitar;Musical instrument with six strings
+bicycle;Two-wheeled vehicle powered by pedals
+telescope;Optical instrument to observe stars
+microscope;Instrument to see very small objects
+helicopter;Aircraft that flies using rotating blades
+library;A place where books are kept
+compass;Instrument used for navigation
+camera;Device used to capture images
+umbrella;Used for protection against rain
