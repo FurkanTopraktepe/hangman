@@ -1,0 +1,10 @@
+pizza;Italian dish with round dough and toppings
+burger;Sandwich consisting of a cooked meat patty
+sushi;Japanese dish with vinegar rice and seafood
+pasta;Generic term for Italian noodles
+taco;Mexican dish with a corn or wheat tortilla
+steak;A slice of meat, typically beef
+salad;A mixture of raw vegetables
+soup;Liquid food served warm or hot
+kebab;Cooked meat dishes, originally from Middle East
+chocolate;Sweet food made from roasted cacao seeds
